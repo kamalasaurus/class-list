@@ -1,7 +1,7 @@
 // contains, add, remove, toggle
 var indexof = require('indexof')
 
-module.exports = ClassList
+export default ClassList
 
 function ClassList(elem) {
     var cl = elem.classList
