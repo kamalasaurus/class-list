@@ -1,5 +1,5 @@
 // contains, add, remove, toggle
-var indexof = require('indexof')
+import indexof from '../indexof/index.js'
 
 export default ClassList
 
