@@ -17,7 +17,7 @@
     "email": "raynos2@gmail.com"
   },
   "dependencies": {
-    "indexof": "0.0.1"
+    "indexof": "https://github.com/kamalasaurus/indexof/tarball/master"
   },
   "devDependencies": {
     "browserify-server": "~1.2.2",
