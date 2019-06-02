@@ -1,5 +1,5 @@
 // contains, add, remove, toggle
-import indexof from './node_modules/component-indexof/index.js'
+import indexof from '../indexof/index.js'
 
 export default ClassList
 
